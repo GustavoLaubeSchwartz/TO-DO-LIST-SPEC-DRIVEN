@@ -1,0 +1,32 @@
+site_name: TODO List — SPEC-DRIVEN
+site_description: Documentação da aplicação TODO List desenvolvida com SPEC-DRIVEN Development
+site_author: Augusto
+repo_url: https://github.com/seu-usuario/TO-DO-LIST-SPEC-DRIVEN
+repo_name: TO-DO-LIST-SPEC-DRIVEN
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.instant
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Início: index.md
+  - Arquitetura: architecture.md
+  - API: api.md
+  - Guia de Uso: usage.md
+  - Deploy: deploy.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true

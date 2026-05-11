@@ -1,0 +1,22 @@
+{
+  "name": "todo-list-spec-driven",
+  "version": "1.0.0",
+  "description": "TODO List application built with SPEC-DRIVEN Development, MVC architecture, in-memory storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": ["todo", "spec-driven", "mvc", "express"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
