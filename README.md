@@ -23,7 +23,7 @@ Aplicação web de gerenciamento de tarefas desenvolvida com a metodologia **SPE
 
 ```bash
 # Clonar
-git clone https://github.com/seu-usuario/TO-DO-LIST-SPEC-DRIVEN.git
+git clone https://github.com/GustavoLaubeSchwartz/TO-DO-LIST-SPEC-DRIVEN.git
 cd TO-DO-LIST-SPEC-DRIVEN
 
 # Instalar
