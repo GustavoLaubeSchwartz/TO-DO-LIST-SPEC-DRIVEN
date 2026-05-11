@@ -2,7 +2,7 @@
 
 ## Repositório
 
-- **GitHub:** [https://github.com/seu-usuario/TO-DO-LIST-SPEC-DRIVEN](https://github.com/seu-usuario/TO-DO-LIST-SPEC-DRIVEN)
+- **GitHub:** [https://github.com/GustavoLaubeSchwartz/TO-DO-LIST-SPEC-DRIVEN](https://github.com/GustavoLaubeSchwartz/TO-DO-LIST-SPEC-DRIVEN)
 
 ## Aplicação em Produção
 
@@ -10,7 +10,7 @@
 
 ## Documentação Online
 
-- **MkDocs (GitHub Pages):** [https://seu-usuario.github.io/TO-DO-LIST-SPEC-DRIVEN/](https://seu-usuario.github.io/TO-DO-LIST-SPEC-DRIVEN/)
+- **MkDocs (GitHub Pages):** [https://gustavolaubeschwartz.github.io/TO-DO-LIST-SPEC-DRIVEN/](https://gustavolaubeschwartz.github.io/TO-DO-LIST-SPEC-DRIVEN/)
 
 ## Artefatos SPEC-DRIVEN
 
@@ -21,4 +21,4 @@
 
 ---
 
-> **Nota:** Substitua `seu-usuario` pelo nome de usuário real do GitHub após a publicação.
+> **Nota:** Atualize a URL do Render após o deploy.

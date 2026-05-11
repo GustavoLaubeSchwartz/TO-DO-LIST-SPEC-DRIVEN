@@ -46,7 +46,7 @@ mkdocs gh-deploy
 Isso cria/atualiza a branch `gh-pages` com o site estático e publica em:
 
 ```
-https://seu-usuario.github.io/TO-DO-LIST-SPEC-DRIVEN/
+https://gustavolaubeschwartz.github.io/TO-DO-LIST-SPEC-DRIVEN/
 ```
 
 ### Configurar GitHub Pages

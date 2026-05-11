@@ -12,15 +12,17 @@ Aplicação web de gerenciamento de tarefas desenvolvida utilizando a metodologi
 
 ## Stack Tecnológica
 
-| Componente     | Tecnologia          |
-|----------------|---------------------|
-| Runtime        | Node.js 18+         |
-| Framework      | Express 4.x         |
-| Frontend       | HTML/CSS/JS vanilla  |
-| Armazenamento  | Memória (in-memory)  |
-| Documentação   | MkDocs + Material    |
-| Deploy Backend | Render               |
-| Deploy Docs    | GitHub Pages         |
+| Componente     | Tecnologia          | Por que esta escolha?                                      |
+|----------------|---------------------|------------------------------------------------------------|
+| Runtime        | Node.js 18+         | Runtime JS mais popular, permite JS no frontend e backend  |
+| Framework      | Express 4.x         | Minimalista, flexível, 30M+ downloads/semana no npm        |
+| Frontend       | HTML/CSS/JS vanilla  | Sem build step, foco no MVC server-side                    |
+| Armazenamento  | Memória (in-memory)  | Zero dependências, requisito do projeto                    |
+| Documentação   | MkDocs + Material    | Markdown nativo, tema moderno com modo escuro              |
+| Deploy Backend | Render               | Tier gratuito, deploy automático via GitHub                |
+| Deploy Docs    | GitHub Pages         | Gratuito, integração nativa com MkDocs                     |
+
+Para uma explicação detalhada de cada escolha, consulte a página [Justificativas](justifications.md).
 
 ## Metodologia
 

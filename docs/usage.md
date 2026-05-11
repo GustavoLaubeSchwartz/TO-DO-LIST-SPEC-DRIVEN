@@ -9,7 +9,7 @@
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/TO-DO-LIST-SPEC-DRIVEN.git
+git clone https://github.com/GustavoLaubeSchwartz/TO-DO-LIST-SPEC-DRIVEN.git
 cd TO-DO-LIST-SPEC-DRIVEN
 
 # Instalar dependências
@@ -60,4 +60,4 @@ Acesse [http://localhost:3000](http://localhost:3000) no navegador.
 ## Observações
 
 !!! warning "Dados em Memória"
-    Os dados são mantidos apenas em memória. Ao reiniciar o servidor, todas as tarefas serão perdidas. Isso é intencional — consulte a [Constitution](https://github.com/seu-usuario/TO-DO-LIST-SPEC-DRIVEN/blob/main/.specify/memory/constitution.md) para a justificativa.
+    Os dados são mantidos apenas em memória. Ao reiniciar o servidor, todas as tarefas serão perdidas. Isso é intencional — consulte a [Constitution](https://github.com/GustavoLaubeSchwartz/TO-DO-LIST-SPEC-DRIVEN/blob/main/.specify/memory/constitution.md) para a justificativa.
